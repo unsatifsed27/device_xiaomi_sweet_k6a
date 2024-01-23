@@ -25,7 +25,7 @@ $(call inherit-product, vendor/afterlife/config/common_full_phone.mk)
 PRODUCT_NAME := afterlife_sweet_k6a
 PRODUCT_DEVICE := sweet_k6a
 PRODUCT_BRAND := Redmi
-PRODUCT_MODEL := Redmi Note 10 Pro
+PRODUCT_MODEL := Redmi Note 12 Pro 4G
 PRODUCT_MANUFACTURER := Xiaomi
 
 PRODUCT_GMS_CLIENTID_BASE := android-xiaomi
