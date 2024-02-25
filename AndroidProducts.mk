@@ -5,4 +5,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_sweet_k6a.mk
+    $(LOCAL_DIR)/afterlife_sweet_k6a.mk
+
+COMMON_LUNCH_CHOICES := \
+    afterlife_sweet_k6a-user \
+    afterlife_sweet_k6a-userdebug \
+    afterlife_sweet_k6a-eng
