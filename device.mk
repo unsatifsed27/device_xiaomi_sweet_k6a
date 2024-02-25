@@ -446,3 +446,6 @@ $(call inherit-product, vendor/xiaomi/sweet_k6a/sweet_k6a-vendor.mk)
 
 # Inherit MIUI Camera
 $(call inherit-product-if-exists, vendor/xiaomi/sweet_k6a-miuicamera/products/miuicamera.mk)
+
+# Inherit from ViPER4AndroidFX
+$(call inherit-product, packages/apps/ViPER4AndroidFX/config.mk)
